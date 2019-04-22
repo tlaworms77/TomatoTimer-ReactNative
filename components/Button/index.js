@@ -19,3 +19,10 @@ Button.propTypes = {
 }
 
 export default Button;
+
+
+// {
+//     isCounting: true | false,
+//     counterDuration: 1500, // 60sec * 25 min
+//     elapsedTime: 0
+// }
